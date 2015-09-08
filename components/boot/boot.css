@@ -1,0 +1,9 @@
+
+/*主模块css，应该在依赖模块css下方*/
+h1 {
+  color: red;
+}
+
+a{
+    color: red;
+}
